@@ -1,0 +1,15 @@
+body {background-image: url(images/starss.png);}
+p, ul, i, blockquote, a, table {color: White;
+	font-size: 18px;
+	font-family: Arial;}
+h1 {font-size: 35px;
+	color: rgb(255, 255, 179);
+	font-family: Permanent Marker;}
+a {text-decoration: none;}
+a:hover {color: rgb(94, 204, 229);}
+img {width: 1000px;
+	margin: auto;
+	display: block;
+	border: 3px solid black;}
+i, p, h1, table, th, td {text-align: center;}
+table, th, td {border: 2px solid white;}
