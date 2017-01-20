@@ -21,5 +21,5 @@ img {width: 1000px;
 i, p, h1, table, th, td {text-align: center;}
 table, th, td {border: 2px solid white;}
 table {border-collapse: collapse;}
-div img {opacity: .4;}
-div img:hover {opacity: .9;}
+div img {opacity: .15;}
+div img:hover {opacity: .7;}
