@@ -10,7 +10,8 @@ a {background-color: #f44336;
     color: white;
     text-align: center; 
     text-decoration: none;
-    display: inline-block;}
+    display: inline-block;
+	border: 2px solid black;}
 a:hover {color: rgb(94, 204, 229);}
 img {width: 1000px;
 	margin: auto;
