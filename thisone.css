@@ -4,7 +4,8 @@ p, ul, i, blockquote, a, table {color: White;
 	font-family: Arial;}
 h1 {font-size: 35px;
 	color: rgb(255, 255, 179);
-	font-family: Permanent Marker;}
+	font-family: Permanent Marker;
+	text-shadow: 3px 2px yellow;}
 a {text-decoration: none;}
 a:hover {color: rgb(94, 204, 229);}
 img {width: 1000px;
