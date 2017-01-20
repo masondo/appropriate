@@ -14,3 +14,4 @@ img {width: 1000px;
 	border: 3px solid black;}
 i, p, h1, table, th, td {text-align: center;}
 table, th, td {border: 2px solid white;}
+table {border-collapse: collapse;}
