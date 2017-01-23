@@ -1,5 +1,5 @@
 body {background-image: url(images/starss.png);}
-p, ul, i, blockquote, a, table {color: White;
+p, ul, i, blockquote, a, table, bold {color: White;
 	font-size: 18px;
 	font-family: Arial;}
 h1 {font-size: 35px;
