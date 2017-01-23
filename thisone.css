@@ -1,4 +1,6 @@
-body {background-image: url(images/starss.png);}
+body {background-image: url(images/starss.png);
+	background-size: cover;
+	background-repeat: no-repeat;}
 p, ul, i, blockquote, a, table, bold {color: White;
 	font-size: 18px;
 	font-family: Arial;}
