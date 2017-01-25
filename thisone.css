@@ -1,4 +1,4 @@
-body {background: rgb(0,0,80);}
+body {background: rgb(255, 255, 230);}
 p, ul, i, blockquote, a, table, bold {color: White;
 	font-size: 18px;
 	font-family: Arial;}
@@ -25,3 +25,10 @@ div img {opacity: .1;}
 div img:hover {opacity: .3;}
 h2 {font-size: 20px;
 	font-family: Permanent Marker;}
+ul {list-style-type: none;
+	margin: 0;
+	padding: 0;}
+li a {
+    display: block;
+	width: 60px;}
+.woo {}
