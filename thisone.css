@@ -5,11 +5,6 @@ p, ul, i, blockquote, a, table, bold {font-size: 18px;
 h1 {font-size: 35px;
 	font-family: Permanent Marker;
 	text-shadow: 3px 2px rgb(203,203,219);}
-a {background-color: #f44336;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
-	border: 2px solid black;}
 a:hover {color: rgb(94, 204, 229);}
 img {width: 1000px;
 	margin: auto;
@@ -25,14 +20,11 @@ h2 {font-size: 20px;
 ul {list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: #f1f1f1}
-li a {
-    display: block;
+	background-color: #f1f1f1;}
+li a {display: block;
 	width: 60px;
 	color: #000;
     padding: 8px 16px;
-    text-decoration: none}
-li a:hover {
-    background-color: #555;
-    color: white;
-.woo {}
+    text-decoration: none;}
+li a:hover {background-color: #555;
+	color: white;}
