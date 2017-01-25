@@ -3,9 +3,9 @@ p, ul, i, blockquote, a, table, bold {color: White;
 	font-size: 18px;
 	font-family: Arial;}
 h1 {font-size: 35px;
-	color: rgb(255, 255, 179);
+	color: rgb(249,249,251);
 	font-family: Permanent Marker;
-	text-shadow: 3px 2px yellow;}
+	text-shadow: 3px 2px rgb(203,203,219);}
 a {background-color: #f44336;
     color: white;
     text-align: center; 
