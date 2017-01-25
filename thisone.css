@@ -16,7 +16,8 @@ table {border-collapse: collapse;}
 div img {opacity: .1;}
 div img:hover {opacity: .3;}
 h2 {font-size: 20px;
-	font-family: Permanent Marker;}
+	font-family: Permanent Marker;
+	color: black;}
 ul {list-style-type: none;
 	margin: 0;
 	padding: 0;
