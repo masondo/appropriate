@@ -1,13 +1,11 @@
-body {background: rgb(255, 255, 230);}
-p, ul, i, blockquote, a, table, bold {color: White;
-	font-size: 18px;
+body {background: rgb(255, 255, 230);
+	color: rgb(0, 0, 26);}
+p, ul, i, blockquote, a, table, bold {font-size: 18px;
 	font-family: Arial;}
 h1 {font-size: 35px;
-	color: rgb(249,249,251);
 	font-family: Permanent Marker;
 	text-shadow: 3px 2px rgb(203,203,219);}
 a {background-color: #f44336;
-    color: white;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
@@ -19,7 +17,7 @@ img {width: 1000px;
 	border: 3px solid black;
 	padding: 14px 25px;}
 i, p, h1, table, th, td {text-align: center;}
-table, th, td {border: 2px solid white;}
+table, th, td {border: 2px solid grey;}
 table {border-collapse: collapse;}
 div img {opacity: .1;}
 div img:hover {opacity: .3;}
