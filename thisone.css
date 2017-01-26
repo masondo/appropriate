@@ -30,3 +30,5 @@ div li a {display: block;
     text-decoration: none;}
 div li a:hover {background-color: #555;
 	color: white;}
+.yes {-webkit-transform: rotateX(150deg);
+	transform: rotateX(150deg);}
