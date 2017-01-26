@@ -3,7 +3,7 @@ body {background: rgb(255, 255, 230);
 p, ul, i, blockquote, a, table, bold {font-size: 18px;
 	font-family: Arial;}
 h1 {font-size: 35px;
-	font-family: Permanent Marker;
+	font-family: Courier New;
 	text-shadow: 3px 2px rgb(203,203,219);}
 a:hover {color: rgb(94, 204, 229);}
 img {width: 1000px;
@@ -16,7 +16,7 @@ table {border-collapse: collapse;}
 div img {opacity: .1;}
 div img:hover {opacity: .3;}
 h2 {font-size: 20px;
-	font-family: Permanent Marker;
+	font-family: Courier New;
 	color: black;}
 div li a:hover {background-color: #555;
 	color: white;}
