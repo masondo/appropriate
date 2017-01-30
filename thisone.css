@@ -16,8 +16,16 @@ table {border-collapse: collapse;}
 h2 {font-size: 20px;
 	font-family: Courier New;
 	color: black;}
-div li a:hover {background-color: #555;
-	color: white;}
+div li a {background-color: #555;
+	color: white;
+	display: inline;
+	 text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+div ul {list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;}
 .death {column-count: 2;
 	column-gap: 30px;
 	column-width: 100px;}
