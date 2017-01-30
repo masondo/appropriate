@@ -18,7 +18,8 @@ h2 {font-size: 20px;
 	color: black;}
 div li a {background-color: #555;
 	color: white;
-	display: inline;
+	display: block;
+	padding: 8px;
 	 text-align: center;
     text-decoration: none;}
 div ul {list-style-type: none;
