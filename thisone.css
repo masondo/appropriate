@@ -4,6 +4,7 @@ p, ul, i, blockquote, a, table, bold {font-size: 18px;
 	font-family: Arial;}
 h1 {font-size: 35px;
 	font-family: Courier New;
+		text-align: center;
 	text-shadow: 3px 2px rgb(203,203,219);}
 a:hover {color: rgb(94, 204, 229);}
 img {width: 1000px;
@@ -15,7 +16,8 @@ table, th, td {border: 2px solid grey;}
 table {border-collapse: collapse;}
 h2 {font-size: 20px;
 	font-family: Courier New;
-	color: black;}
+	color: black;
+text-align: center;}
 div li a {background-color: #555;
 	color: white;
 	display: block;
@@ -26,4 +28,5 @@ div ul {list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;}
-i {text-align: center;}
+i, img {text-align: center;
+}
