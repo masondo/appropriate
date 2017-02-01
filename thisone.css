@@ -18,6 +18,7 @@ h2 {font-size: 20px;
 	font-family: Courier New;
 	color: black;
 text-align: center;}
+ul li {text-decoration:initial;}
 div li a {background-color: #555;
 	color: white;
 	display: block;
