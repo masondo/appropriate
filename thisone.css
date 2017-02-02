@@ -12,14 +12,15 @@ img {width: 1000px;
 	display: block;
 	border: 3px solid black;
 	border-radius: 25px;
-	padding: 15px 15px;}
+	padding: 15px 15px;
+transform: rotateX(150deg);}
 table, th, td {border: 2px solid grey;}
 table {border-collapse: collapse;}
 h2 {font-size: 20px;
 	font-family: Courier New;
 	color: black;
 text-align: center;}
-ul li {text-decoration:initial;}
+ul li {text-decoration: initial;}
 div li a {background-color: #555;
 	color: white;
 	display: block;
