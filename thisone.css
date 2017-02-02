@@ -4,7 +4,7 @@ p, ul, i, blockquote, a, table, bold {font-size: 18px;
 	font-family: Arial;}
 h1 {font-size: 35px;
 	font-family: Courier New;
-		text-align: center;
+	text-align: center;
 	text-shadow: 3px 2px rgb(203,203,219);}
 a:hover {color: rgb(94, 204, 229);}
 img {width: 1000px;
@@ -13,13 +13,13 @@ img {width: 1000px;
 	border: 3px solid black;
 	border-radius: 25px;
 	padding: 15px 15px;
-transform: rotateX(150deg);}
+	transform: rotateX(150deg);}
 table, th, td {border: 2px solid grey;}
 table {border-collapse: collapse;}
 h2 {font-size: 20px;
 	font-family: Courier New;
 	color: black;
-text-align: center;}
+	text-align: center;}
 ul li {text-decoration: initial;}
 div li a {background-color: #555;
 	color: white;
@@ -31,5 +31,4 @@ div ul {list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;}
-i, img {text-align: center;
-}
+i, img {text-align: center;}
