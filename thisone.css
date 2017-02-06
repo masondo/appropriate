@@ -26,7 +26,8 @@ div li a {background-color: #555;
 	display: inline;
 	padding: 8px;
 	 text-align: center;
-    text-decoration: none;}
+    text-decoration: none;
+	float: left;}
 div ul {list-style-type: none;
 	margin: 0;
 	padding: 0;
