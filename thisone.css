@@ -1,1 +1,9 @@
 .wrapper {display: inline-grid;}
+h1 {font-family: Alegreya;
+  font-size: 24px;
+  text-align: center;}
+h2 {font-family: Alegreya;
+  font-size: 20px;
+  text-align: center;}
+p {font-family: Arial;
+  font-size: 17px;}
