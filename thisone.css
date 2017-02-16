@@ -5,5 +5,18 @@ h1 {font-family: Optima;
 h2 {font-family: Optima;
   font-size: 20px;
   text-align: center;}
+ul {list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  border: 1px solid black;
+  height: 100%;
+  position: fixed;
+  color: rgb(204, 206, 209);}
+li a {display: block;
+  text-decoration: none;
+  padding: 8px 16px;
+  text-align: center;}
+li a:hover {background-color: rgb(114, 115, 117);}
 p {font-family: Futura;
   font-size: 17px;}
