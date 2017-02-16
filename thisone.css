@@ -1,8 +1,11 @@
 .wrapper {display: inline-grid;}
-h1 {font-family: Optima;
+h1 {font-family: Verdana;
   font-size: 24px;
   text-align: center;}
-h2 {font-family: Optima;
+subheading {font-family: Verdana;
+  font-size: 20px;
+  color: rgba(5, 4, 4, 0.53);}
+h2 {font-family: Verdana;
   font-size: 20px;
   text-align: center;}
 ul {list-style-type: none;
