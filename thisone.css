@@ -5,7 +5,8 @@ h1 {font-family: Helvetica;
   text-align: center;}
 subheading {font-family: Helvetica;
   font-size: 20px;
-  color: rgba(5, 4, 4, 0.53);}
+  color: rgba(5, 4, 4, 0.53);
+  text-align: center;}
 h2 {font-family: Helvetica;
   font-size: 20px;
   text-align: center;}
@@ -20,7 +21,7 @@ ul {list-style-type: none;
 li a {display: block;
   text-decoration: none;
   padding: 8px 16px;
-  color: solid black;
+  color: black;
   text-align: center;}
 li a:hover {background-color: rgb(114, 115, 117);}
 p {font-family: Futura;
