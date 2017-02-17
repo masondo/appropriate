@@ -16,10 +16,11 @@ ul {list-style-type: none;
   border: 1px solid black;
   height: 100%;
   position: fixed;
-  color: rgb(204, 206, 209);}
+  background-color: rgb(204, 206, 209);}
 li a {display: block;
   text-decoration: none;
   padding: 8px 16px;
+  color: solid black;
   text-align: center;}
 li a:hover {background-color: rgb(114, 115, 117);}
 p {font-family: Futura;
