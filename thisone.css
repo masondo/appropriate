@@ -25,3 +25,5 @@ li a {display: block;
 li a:hover {background-color: rgb(114, 115, 117);}
 p {font-family: Futura;
   font-size: 17px;}
+.founders img {size: 500px;}
+.slideshow img {size: 1000px;}
