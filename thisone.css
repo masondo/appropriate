@@ -10,7 +10,7 @@ subheading {font-family: Helvetica;
 h2 {font-family: Helvetica;
   font-size: 20px;
   text-align: center;}
-ul {list-style-type: none;
+div ul {list-style-type: none;
   margin: 0;
   padding: 0;
   width: 200px;
@@ -24,7 +24,7 @@ li a {display: block;
   color: black;
   text-align: center;}
 li a:hover {background-color: rgb(114, 115, 117);}
-p {font-family: Futura;
+p {font-family: Helvetica;
   font-size: 17px;}
 .founders img {size: 500px;}
 .slideshow img {size: 1000px;}
