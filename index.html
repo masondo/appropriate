@@ -24,6 +24,16 @@
 		<img class= "pics" src= "http://1.design-milk.com/images/2016/12/Etch-Clock-1.jpg">
 		<img class= "pics" src= "http://static.dudeiwantthat.com//img/household/decor/etch-morphing-digital-clock-25475.jpg">
 		<a class="w3-btn-floating w3-display-right" onclick="plusDivs(+1)">&#10095;</a>
+		var slideIndex = 1;
+showDivs(slideIndex);
+function plusDivs(n) {showDivs(slideIndex += n);}
+function showDivs(n) {var i;
+    var x = document.getElementsByClassName("mySlides");
+    if (n > x.length) {slideIndex = 1} 
+    if (n < 1) {slideIndex = x.length} ;
+    for (i = 0; i < x.length; i++) 
+	{x[i].style.display = "none";}
+    x[slideIndex-1].style.display = "block";}
 	</div>
 	<h2>Innovation</h2>
 	<p>The ETCH Clock is a revolution in timetelling design. The elastic face bends itself to engrave the sleek numbers you see displayed, then returns to its initial form.</p>
