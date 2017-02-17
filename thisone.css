@@ -10,7 +10,7 @@ subheading {font-family: Helvetica;
 h2 {font-family: Helvetica;
   font-size: 20px;
   text-align: center;}
-div ul {list-style-type: none;
+.nav ul {list-style-type: none;
   margin: 0;
   padding: 0;
   width: 200px;
