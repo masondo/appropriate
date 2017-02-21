@@ -8,10 +8,10 @@ body {background-color: rgb(225, 225, 234);
 h1 {font-family: Helvetica;
 	font-size: 24px;
 	text-align: center;}
-h3 {font-family: Helvetica;
+h2 {font-family: Helvetica;
 	font-size: 20px;
 	text-align: center;}
-h2 {font-family: Helvetica;
+h3 {font-family: Helvetica;
 	font-size: 20px;
 	text-align: center;}
 .menu {margin: 0;
@@ -32,9 +32,9 @@ li a {display: block;
 	color: black;
 	text-align: center;}
 li a:hover {background-color: rgb(114, 115, 117);}
-p {font-family: Helvetica;
- 	font-size: 17px;}
-.founders img {size: 500px;}
 .slideshow img {size: 1000px;
 	grid-column: 3/span 1;
 	grid-row: 3/span 1;}
+p {font-family: Helvetica;
+ 	font-size: 17px;}
+.founders img {size: 500px;}
