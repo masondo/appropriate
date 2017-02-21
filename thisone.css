@@ -32,9 +32,10 @@ li a {display: block;
 	color: black;
 	text-align: center;}
 li a:hover {background-color: rgb(114, 115, 117);}
-.slideshow img {size: 1000px;
-	grid-column: 3/span 1;
+.slideshow img {grid-column: 3/span 1;
 	grid-row: 3/span 1;}
+.innovation {grid-column: 3/span 1;
+	grid-row: 4/span 1;
 p {font-family: Helvetica;
  	font-size: 17px;}
 .founders img {size: 500px;}
