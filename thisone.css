@@ -3,6 +3,8 @@
 	grid-template-rows: 25% 100px auto;}
 body {background-color: rgb(225, 225, 234);
 	color: rgba(5, 4, 4, 0.62);}
+.header {grid-column: 1/span 1;
+	grid-row: 3/span 1;}
 h1 {font-family: Helvetica;
 	font-size: 24px;
 	text-align: center;}
@@ -12,8 +14,7 @@ h3 {font-family: Helvetica;
 h2 {font-family: Helvetica;
 	font-size: 20px;
 	text-align: center;}
-.menu {list-style-type: none;
-	margin: 0;
+.menu {margin: 0;
 	padding: 0;
 	width: 200px;
 	border: 1px solid grey;
@@ -23,6 +24,7 @@ h2 {font-family: Helvetica;
 	background-color: rgb(204, 206, 209);
 	grid-column: 1/span 2;
 	grid-row: 1/span 2;}
+.menu ul {list-style-type: none;}
 li:last-child {border-bottom: none;}
 li a {display: block;
 	text-decoration: none;
