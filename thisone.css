@@ -2,7 +2,8 @@
 	grid-template-columns: 40px 50px auto 50px 40px;
 	grid-template-rows: 25% 100px auto;}
 body {background-color: rgb(225, 225, 234);
-	color: rgba(5, 4, 4, 0.62);}
+	color: rgba(5, 4, 4, 0.62);
+	text-align: center;}
 .header {grid-column: 1/span 1;
 	grid-row: 3/span 1;}
 h1 {font-family: Helvetica;
