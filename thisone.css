@@ -1,5 +1,7 @@
-.wrapper {display: inline-grid;
-  background-color: rgb(225, 225, 234)}
+.wrapper {display: grid;
+  grid-template-columns: 40px 50px auto 50px 40px;
+  grid-template-rows: 25% 100px auto;}
+body {background-color: rgb(225, 225, 234);}
 h1 {font-family: Helvetica;
   font-size: 24px;
   text-align: center;}
@@ -10,14 +12,16 @@ subheading {font-family: Helvetica;
 h2 {font-family: Helvetica;
   font-size: 20px;
   text-align: center;}
-nav ul {list-style-type: none;
+.menu {list-style-type: none;
   margin: 0;
   padding: 0;
   width: 200px;
   border: 1px solid grey;
   height: 100%;
   position: fixed;
-  background-color: rgb(204, 206, 209);}
+  background-color: rgb(204, 206, 209);
+  grid-column: 1/span 2;
+  grid-row: 1/span 2;}
 li a {display: block;
   text-decoration: none;
   padding: 8px 16px;
