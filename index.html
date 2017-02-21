@@ -35,18 +35,7 @@
 		<div class= "button">
 		<a class="w3-btn-floating w3-display-right" onclick="plusDivs(+1)">&#10095;</a>
 		</div>
-		<script language="javascript">
-		var slideIndex = 1;
-showDivs(slideIndex);
-function plusDivs(n) {showDivs(slideIndex += n);}
-function showDivs(n) {var i;
-    var x = document.getElementsByClassName("slideshow");
-    if (n > x.length) {slideIndex = 1} 
-    if (n < 1) {slideIndex = x.length} ;
-    for (i = 0; i < x.length; i++) 
-	{x[i].style.display = "none";}
-    x[slideIndex-1].style.display = "block";}
-		</script>
+		<script>src= "slideshow.js"</script>
 	</div>
 	<div class= "innovation">
 	<h2>Innovation</h2>
