@@ -1,13 +1,13 @@
 .wrapper {display: grid;
   grid-template-columns: 40px 50px auto 50px 40px;
   grid-template-rows: 25% 100px auto;}
-body {background-color: rgb(225, 225, 234);}
+body {background-color: rgb(225, 225, 234);
+  color: rgba(5, 4, 4, 0.62);}
 h1 {font-family: Helvetica;
   font-size: 24px;
   text-align: center;}
 h3 {font-family: Helvetica;
   font-size: 20px;
-  color: rgba(5, 4, 4, 0.53);
   text-align: center;}
 h2 {font-family: Helvetica;
   font-size: 20px;
@@ -17,6 +17,7 @@ h2 {font-family: Helvetica;
   padding: 0;
   width: 200px;
   border: 1px solid grey;
+  border-bottom: 1px solid grey;
   height: 100%;
   position: fixed;
   background-color: rgb(204, 206, 209);
