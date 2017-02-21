@@ -23,6 +23,7 @@ h2 {font-family: Helvetica;
   background-color: rgb(204, 206, 209);
   grid-column: 1/span 2;
   grid-row: 1/span 2;}
+li:last-child {border-bottom: none;}
 li a {display: block;
   text-decoration: none;
   padding: 8px 16px;
