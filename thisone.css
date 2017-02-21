@@ -26,11 +26,13 @@ h2 {font-family: Helvetica;
 li:last-child {border-bottom: none;}
 li a {display: block;
   text-decoration: none;
-  padding: 8px 16px;
+	padding: 8px 16px;
   color: black;
   text-align: center;}
 li a:hover {background-color: rgb(114, 115, 117);}
 p {font-family: Helvetica;
   font-size: 17px;}
 .founders img {size: 500px;}
-.slideshow img {size: 1000px;}
+.slideshow img {size: 1000px;
+	grid-column: 3/span 1;
+	grid-row: 3/span 1;}
