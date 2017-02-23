@@ -35,6 +35,7 @@ li a {display: block;
 li a:hover {background-color: rgb(114, 115, 117);}
 #slideshow img {grid-column: 2/span 1;
 	grid-row: 3/span 1;
+	size: 500px;
 	box-shadow: 0 0 20px rgba(0,0,0,0.4);}
 #slideshow > div {position: absolute; 
 	top: 10px; 
