@@ -53,3 +53,4 @@ p {font-family: Helvetica;
 .founders {grid-column: 2/span 1;
 	grid-row: 2/span 1;}
 .founders img {size: 500px;}
+ol {text-decoration: arrow;}
