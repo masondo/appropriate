@@ -32,6 +32,8 @@ li a {display: block;
 	padding: 8px 16px;
 	color: black;
 	text-align: center;}
+.active {background-color: black;
+	color: white;}
 li a:hover {background-color: rgb(114, 115, 117);}
 #slideshow img {grid-column: 2/span 1;
 	grid-row: 3/span 1;
