@@ -36,6 +36,9 @@ li a {display: block;
 .active {background-color: black;
 	color: white;}
 li a:hover {background-color: rgb(114, 115, 117);}
+.clock {grid-column: 2/span 1;
+	size: 500px;
+	grid-row: 3/span 1;}
 #slideshow img {grid-column: 2/span 1;
 	grid-row: 3/span 1;
 	size: 500px;
