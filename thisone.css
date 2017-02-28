@@ -23,7 +23,7 @@ h3 {font-family: Helvetica;
 	border-bottom: 1px solid grey;
 	height: 80%;
 	background-color: rgb(204, 206, 209);
-	grid-column: 1/span 2;
+	grid-column: 1/span 1;
 	grid-row: 1/span all;}
 .menu ul {text-align: center;
 	list-style-type: none;}
