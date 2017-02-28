@@ -21,11 +21,12 @@ h3 {font-family: Helvetica;
 	width: 200px;
 	border: 1px solid grey;
 	border-bottom: 1px solid grey;
-	height: 100%;
+	height: 80%;
 	background-color: rgb(204, 206, 209);
 	grid-column: 1/span 2;
 	grid-row: 1/span all;}
-.menu ul {list-style-type: none;}
+.menu ul {text-align: center;
+	list-style-type: none;}
 li:last-child {border-bottom: none;}
 li a {display: block;
 	text-decoration: none;
